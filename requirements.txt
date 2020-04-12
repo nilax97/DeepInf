@@ -1,0 +1,6 @@
+numpy==1.17.2
+torch==1.0.1.post2
+scikit-learn==0.21.3
+igraph==0.1.11
+tensorboard-logger==0.1.0
+
